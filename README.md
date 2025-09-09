@@ -18,15 +18,15 @@ This work highlights my ability to:
 
 ---
 
-## File
-
-- [Work Hours Report](work_hours_report.xlsx)
-
----
-
 ## Learning Outcomes
 - Practiced using formulas to calculate pay.  
 - Learned to apply summary functions (MAX, MIN, AVERAGE, SUM).  
 - Built a simple and clear payroll report in Excel.  
+
+---
+
+## File
+
+- [Work Hours Report](work_hours_report.xlsx)
 
 ---
