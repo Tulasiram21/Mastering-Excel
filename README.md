@@ -15,20 +15,23 @@ This work highlights my ability to:
   * **Aggregation (`=ADD`)**: For straightforward addition.  
   * **Extremes (`=MIN`, `=MAX`)**: To identify the lowest and highest values in a dataset.  
   * **Averages (`=AVERAGE`)**: To compute the mean of a data series.  
-* **Logical Functions**: I Applied the **`IF` function** to perform conditional calculations, such as determining overtime bonuses only when overtime hours are greater than six.  
+* **Logical Functions**: Applied the **`IF` function** to perform conditional calculations, such as determining overtime bonuses when overtime hours exceed a threshold.  
+* **Cell References**: Practiced both **relative** and **absolute references (`$C4`)** to correctly apply formulas across different rows and columns.  
 
 ---
 
 ## Learning Outcomes
 - Practiced using formulas to calculate employee pay.  
-- Learned to apply summary functions (MAX, MIN, AVERAGE, SUM).  
+- Learned to apply summary functions (`MAX`, `MIN`, `AVERAGE`, `SUM`).  
 - Understood how to use the **IF function** for conditional logic.  
-- Built and improved payroll reports with **overtime calculations**.  
+- Learned the difference between **relative and absolute references**, and applied them for accurate payroll calculations.  
+- Built and improved payroll reports with **overtime calculations** and **summary statistics**.  
 
 ---
 
 ## Files
 - **[Work Hours Report](work_hours_report.xlsx)** – My first Excel practice file. It includes basic payroll calculations using formulas like `SUM`, `MIN`, `MAX`, and `AVERAGE`.  
 - **[Employee Payroll Report](employee_payroll_report.xlsx)** – An improved version where I applied the **IF function** to calculate **Overtime Bonus** and **Total Pay**, along with summary statistics.  
+- **[Employee Payroll](Employee_Payroll.xlsx)** – A detailed payroll project where I combined multiple formulas to calculate **weekly pay, overtime hours, overtime bonuses, and total monthly pay**. This file also demonstrates the use of **absolute references (`$C4`)** to lock values in formulas, ensuring consistency when copying formulas across rows and columns.  
 
 ---
