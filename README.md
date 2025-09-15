@@ -13,6 +13,7 @@ This work highlights my ability to:
   - Applied cell borders, alignment, and number formatting (currency, percentages, decimals).
   - Improved readability and presentation of numerical data.
   - Used **Wrap Text** and **Orientation** to make reports more professional.
+  - Applied **Color Scales** for quick visual insights.
 
 * **Perform Basic Calculations**
   - **Summation (`=SUM`)**: To calculate totals for a range of values.
@@ -26,14 +27,20 @@ This work highlights my ability to:
   - Learned **absolute referencing (`$A$1`)** for locking formulas when copying across rows and columns.
   - Practiced **OR condition** to handle multiple logical checks.
 
+* **Lookup & Text Functions**
+  - Learned **`VLOOKUP`** to fetch data from related tables.
+  - Used **`LEFT`, `RIGHT`, `MID`** to extract parts of text.
+  - Practiced **`CONCATENATE`** (or `&`) to combine text from multiple cells.
+
 * **Conditional Formatting**
   - Practiced highlight rules (greater than, less than, text-based rules).
   - Learned **Top/Bottom rules** to quickly identify standout values.
-  - Applied color scales and data bars for better visualization.
+  - Applied **Color Scales** for better visualization.
 
 * **Charts & Visualization**
   - Practiced column charts to compare values.
-  - Adjusted chart orientation and labels for clear presentation.
+  - Learned **Scatter Charts** to visualize relationships between two variables.
+  - Adjusted chart orientation, labels, and legends for clear presentation.
 
 * **Data Handling**
   - Used **Text to Columns** to split data into multiple fields.
@@ -47,7 +54,6 @@ This work highlights my ability to:
   - Built structured datasets (e.g., payrolls, career comparisons, gradebooks).
   - Used formatting and formulas to support data-driven insights.
 
-
 ---
 
 ## Learning Outcomes
@@ -57,7 +63,9 @@ This work highlights my ability to:
 - Understood and applied the **IF function** and **OR condition** for conditional logic.
 - Built payroll reports with **overtime calculations** and summary statistics.
 - Strengthened skills in **absolute references** for consistent formulas.
-- Practiced **conditional formatting** (highlight cell rules, Top/Bottom rules, scales).
+- Practiced **conditional formatting** (highlight cell rules, Top/Bottom rules, Color Scales).
+- Learned to use **Text functions** (`LEFT`, `RIGHT`, `MID`, `CONCATENATE`,`VALUE`) and **VLOOKUP**.
+- Created **Scatter Charts** to analyze variable relationships.
 - Created **comparison datasets** (career decisions, gradebooks) to simulate real-world Excel tasks.
 - Learned to use **Text to Columns, Sorting, and Filtering** to clean and analyze data.
 - Built **Pivot Tables** for advanced data summarization.
@@ -72,7 +80,5 @@ This work highlights my ability to:
 - **[Employee Payroll with Overtime Analysis](employee_payroll_with_overtime.xlsx)** – Extended payroll with summary statistics, including use of **absolute referencing** for formulas.  
 - **[Gradebook](Grade_Book.xlsx)** – Practice file with multiple test scores to learn **data entry** and formatting.  
 - **[Career Decisions](Career_decisions.xlsx)** – Dataset comparing jobs (pay, market, talent, schooling, enjoyment). Used **conditional formatting** with **Top/Bottom rules** and highlight rules for analysis.  
-- **[Sales Data](Sales.xlsx)** – Practice dataset (171 records) for **Wrap Text, Text to Columns, Sorting, Filtering, SUMIF, and Pivot Tables**.
-
----
-
+- **[Sales Data](Sales.xlsx)** – Practice dataset (171 records) for **Wrap Text, Text to Columns, Sorting, Filtering, SUMIF, Pivot Tables, and charting**.
+- **[Cars Data]car_records.xlsx)** – Practice dataset (50 records) for **VLOOKUP,Left, Right, Mid, Value, Concatenate, Pivot Tables, and charting**.
